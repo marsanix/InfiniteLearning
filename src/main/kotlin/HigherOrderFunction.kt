@@ -18,6 +18,9 @@ fun main() {
     var student1 = Student("Reza")
     student1.humanDetails()
 
+    var student2 = Student("Ardy")
+    student2.humanDetails()
+
 }
 
 
